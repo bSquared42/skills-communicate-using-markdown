@@ -3,3 +3,7 @@
 ``` java
 System.out.println("Hello, World!");
 ```
+- [ ] Learn Markdown
+- [ ] Learn how to review pull requests
+- [ ] Learn how to resolve merge conflicts
+- [ ] Learn "Connect the Dots"
